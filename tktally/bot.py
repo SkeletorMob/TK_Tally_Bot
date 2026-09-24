@@ -49,7 +49,7 @@ class TKTallyBot(discord.Client):
     async def on_ready(self) -> None:
         log.info("Logged in as %s (%s) in %d servers", self.user, self.user.id, len(self.guilds))
         await self.change_presence(activity=discord.Activity(
-            type=discord.ActivityType.watching, name="for treason 👀"))
+            type=discord.ActivityType.watching, name="👀 for treason"))
 
 
 # ---- Role management ------------------------------------------------------
