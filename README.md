@@ -2,6 +2,10 @@
 
 A Discord bot that keeps a running tally of treasonous team kills, roasts the traitor on the spot, and hands out escalating roles of dishonor. Built for shooter-game servers where friendly fire is a way of life.
 
+## License
+
+TK Tally Bot is licensed under [PolyForm Noncommercial 1.0.0](LICENSE). You're free to use, modify and self-host it for personal or noncommercial purposes. Commercial use requires permission; [open an issue](https://github.com/SkeletorMob/TK_Tally_Bot/issues) to ask.
+
 ## Add it to your server
 
 **[➕ Invite TK Tally Bot](INVITE_LINK_HERE)**
